@@ -1,0 +1,102 @@
+.page {
+	width: 1400px;
+	margin: auto;
+}
+
+.body {
+	padding: 0px; 
+	margin: 0px; 
+	background: #FFF;
+	position: relative;
+}
+
+/*Navigation bar*/
+
+.navbar { 
+	background: #AFB4D1;
+}
+
+.nav a {
+	color: #ffffff;
+}
+
+.navbar-brand {
+	color: #FFFFFF;
+	cursor: pointer; 
+}
+
+.navbar-brand:hover {
+	background : white;
+	transition : 1s;
+}
+
+.navbar-collapse { 
+	justify-content: flex-end;
+}
+
+.header {
+	
+}
+
+.features {
+	margin: 4em auto;	
+	padding: 1em;
+	position: relative; 
+
+.feature-title {
+	color: #333;
+	font-size: 1.3rem; 
+	font-weight: 700; 
+	margin-bottom: 20px; 
+	text-transform: uppercase;
+}
+.features img {
+	-webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4); 
+	-moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4); 
+	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4); 
+	margin-bottom: 16px;
+}
+
+
+.photo {
+	float: left;
+}
+
+
+.info {
+	float: right;
+}
+
+.sec-left {
+	float: left;
+}
+
+.sec-right {
+	margin-left: 150px;
+}
+
+.page-footer { 
+	background-color: #222; 
+	color: #ccc;
+	padding: 60px 0 30px;
+}
+
+.footer-copyright { 
+	color: #666; 
+	padding: 40px 0;
+}
+
+.logo1 {
+	position: absolute;
+	margin-right: 70px;
+}
+
+.logo2 {
+	position: absolute;
+	margin-right: 40px;
+}
+
+.logo3 {
+	position: absolute;
+	margin-right: 10px;
+}
